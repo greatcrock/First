@@ -1,3 +1,5 @@
 # First
 Examples of my code
-Hi! I've changed the original code and added there new line, which shows that code has version 0.1
+Hello! Here examples of my code. All examples are solutions for questions from web-platform, called Checkio.org.
+Here is the link to my checkio account: https://py.checkio.org/user/anvarvaliev01/
+In files might be some copied text, but I mentioned where I copied and where did by myself.
